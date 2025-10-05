@@ -525,7 +525,7 @@ We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the repository**
    ```bash
-   git fork https://github.com/your-username/content-summarizer
+   git fork https://github.com/Syam-1133/Content-Summarizer
    ```
 
 2. **Create a feature branch**
