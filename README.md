@@ -236,14 +236,11 @@ source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 
 # Install dependencies
-pip install -r requirements-clean.txt
+pip install -r requirements.txt
 ```
 
 #### 4️⃣ **Environment Configuration**
 ```bash
-# Copy environment template
-cp config/.env.example .env
-
 # Edit .env file and add your API key
 GROQ_API_KEY=your_actual_api_key_here
 ```
