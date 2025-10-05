@@ -177,8 +177,8 @@ This project evolved from a single monolithic file into a **professional, scalab
 │   ├── services/               # Business logic services
 │   └── utils/                  # Helper utilities
 ├── 📚 docs/                    # Comprehensive documentation
-├── 🧪 tests/                   # Unit tests & test framework
-└── 🛠️ setup files             # Cross-platform setup scripts
+
+
 ```
 
 ## 🚀 **Quick Start Guide**
@@ -213,7 +213,7 @@ This project evolved from a single monolithic file into a **professional, scalab
 
 #### 1️⃣ **Clone Repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Syam-1133/Content-Summarizer
 cd content-summarizer
 ```
 
